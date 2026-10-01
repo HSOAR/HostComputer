@@ -9,10 +9,10 @@
    1. https://www.hsoar.com
    2. https://www.hsoar.cn
 
-#技术支持
+## 技术支持
 请加微信：2587076 或官网电话沟通。
 
-##关于添加功能
+## 关于添加功能
 免费版与付费版用户均可提交新增功能需求；需求合理，审核通过后可**免费新增功能**。
 
 ## 这是操作界面
@@ -23,5 +23,6 @@
 ![Picture](https://github.com/HSOAR/HostComputer/blob/main/images/400.png)
 ![Picture](https://github.com/HSOAR/HostComputer/blob/main/images/301.png)
 
-##公司简介
+
+## 公司简介
 宏翔科技拥有18年以上软硬件开发经验，主营 PLC、单片机、运动控制卡、MES 系统、网站、APP 等程序开发服务。
